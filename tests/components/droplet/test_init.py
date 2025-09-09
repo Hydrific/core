@@ -1,4 +1,4 @@
-"""Test Droplet coordinator."""
+"""Test Droplet initialization."""
 
 from unittest.mock import AsyncMock
 
